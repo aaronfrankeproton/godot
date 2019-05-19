@@ -13,6 +13,8 @@ wheel. Games can be exported in one click to a number of platforms, including
 the major desktop platforms (Linux, Mac OSX, Windows) as well as mobile
 (Android, iOS) and web-based (HTML5) platforms.
 
+Godot is awesome!
+
 #### Free, open source and community-driven
 
 Godot is completely free and open source under the very permissive MIT license.
